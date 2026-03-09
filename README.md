@@ -45,7 +45,6 @@ Cyber Kill Chain framework.
 ##  Files
 -  Full Analysis Report (DOCX)
 -  Presentation Slides (PPTX)
--  Screenshots folder
 
 ##  Certification
 Blue Team Junior Analyst (BTJA) — Security Blue Team — Jan 2026
